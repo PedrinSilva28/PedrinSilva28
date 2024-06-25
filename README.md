@@ -4,7 +4,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://e7.pngegg.com/pngimages/788/406/png-clipart-node-js-scalable-graphics-javascript-react-scratch-logo-angle-text.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png">
 </div>
   
   ##
