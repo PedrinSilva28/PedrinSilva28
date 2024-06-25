@@ -21,5 +21,5 @@
 
   ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinSilva28&hide_progress=true)
 
