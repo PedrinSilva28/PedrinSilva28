@@ -19,3 +19,5 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+![Snake animation](https://github.com/PedrinSilva28/PedrinSilva28/blob/output/github-contribution-grid-snake.svg)
