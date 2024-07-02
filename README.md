@@ -1,4 +1,4 @@
-## Olá meu nome é Pedro Gonçalves, criador de conteúdo de programação e tecnologia!
+## Olá meu nome é Pedro Gonçalves, Programador Web e criador de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <h3>Tecnologias que domino:</h3>
